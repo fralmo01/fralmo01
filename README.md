@@ -1,23 +1,31 @@
 <div align="center">
   <img src="assets/banner.png" alt="Banner" width="100%">
   <img src="assets/wave.svg" width="100%">
-  <br>
-  <br>
 
-  <h1>¡Hola, soy Fralmo01! 👋</h1>
+  <br />
+  
+  <h3>
+    <i>✨ Hola, soy <a href="#">Fralmo01</a> ✨</i>
+  </h3>
+  
+  <code>
+    Desarrollador Apasionado · Creador de Experiencias · Soñador
+  </code>
+  
+  <br /><br />
+  
+  <table align="center" border="0" cellpadding="10">
+    <tr>
+      <td align="center">
+        <i>
+          "Bienvenido a mi universo digital. Aquí convergen la creatividad y el código, <br>
+          transformando ideas abstractas en realidades tangibles."
+        </i>
+      </td>
+    </tr>
+  </table>
 
-  <p>
-    🚀 <b>Desarrollador Apasionado | Creador de Experiencias | Soñador</b> 🚀
-  </p>
-
-  <br>
-
-  <p>
-    Bienvenido a mi espacio personal. Aquí es donde comparto mis proyectos, experimentos y mi viaje en el mundo del desarrollo.
-    Me encanta crear cosas nuevas y aprender tecnologías innovadoras.
-  </p>
-
-  <br>
+  <br />
 
   <h2>🛠️ Habilidades</h2>
 
