@@ -2,8 +2,6 @@
   <img src="assets/banner.png" alt="Banner" width="100%">
   <img src="assets/wave.svg" width="100%">
 
-  <br />
-  
   <h3>
     <i>✨ Hola, soy <a href="#">Frans</a> ✨</i>
   </h3>
@@ -11,9 +9,7 @@
   <h4>
     Desarrollador Apasionado &nbsp;·&nbsp; Creador de Experiencias &nbsp;·&nbsp; Soñador
   </h4>
-  
-  <br /><br />
-  
+
   <table align="center" border="0" cellpadding="10">
     <tr>
       <td align="center">
@@ -24,8 +20,6 @@
       </td>
     </tr>
   </table>
-
-  <br />
 
   <h2>🛠️ Habilidades</h2>
 
