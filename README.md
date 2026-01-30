@@ -21,43 +21,39 @@
     </tr>
   </table>
 
-  <h2>🛠️ Habilidades</h2>
+  <h2 align="center">🛠️ Arsenale Tecnológico</h2>
 
-  <p align="left">
-    <img src="https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396" />
-    <img src="https://geps.dev/progress/50" height="20" />
-  </p>
-  <p align="left">
-    <img src="https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&logoColor=239120" />
-    <img src="https://geps.dev/progress/50" height="20" />
-  </p>
-  <p align="left">
-    <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB" />
-    <img src="https://geps.dev/progress/50" height="20" />
-  </p>
-  <p align="left">
-    <img src="https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=777BB4" />
-    <img src="https://geps.dev/progress/50" height="20" />
-  </p>
-  <p align="left">
-    <img src="https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql&logoColor=4479A1" />
-    <img src="https://geps.dev/progress/50" height="20" />
-  </p>
-  <p align="left">
-    <img src="https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle&logoColor=F80000" />
-    <img src="https://geps.dev/progress/50" height="20" />
-  </p>
-  <p align="left">
-    <img src="https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5&logoColor=E34F26" />
-    <img src="https://geps.dev/progress/50" height="20" />
-  </p>
-  <p align="left">
-    <img src="https://img.shields.io/badge/-JS-333333?style=flat&logo=javascript&logoColor=F7DF1E" />
-    <img src="https://geps.dev/progress/50" height="20" />
-  </p>
-  <p align="left">
-    <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=1572B6" />
-    <img src="https://geps.dev/progress/50" height="20" />
-  </p>
+  <table align="center" border="0" cellpadding="10">
+    <tr>
+      <td align="center" width="50%" valign="top">
+        <h3>👨‍💻 Lenguajes & Backend</h3>
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/>
+          <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/>
+          <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
+          <img src="https://skillicons.dev/icons?i=cpp" alt="c++" width="40" height="40"/>
+          <br/><br/>
+          <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/>
+          <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
+          <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/>
+        </div>
+      </td>
+      <td align="center" width="50%" valign="top">
+        <h3>🚀 Frontend & Datos</h3>
+        <div align="center">
+          <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
+          <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/>
+          <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/>
+          <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
+          <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/>
+          <br/><br/>
+          <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+          <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/>
+        </div>
+      </td>
+    </tr>
+  </table>
 
 </div>
