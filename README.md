@@ -20,6 +20,7 @@
       </td>
     </tr>
   </table>
+  <img src="assets/wave.svg" width="100%">
 
   <h2 align="center">🛠️ Arsenale Tecnológico</h2>
 
