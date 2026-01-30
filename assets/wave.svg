@@ -1,14 +1,51 @@
 <svg width="854" height="40" viewBox="0 0 854 40" xmlns="http://www.w3.org/2000/svg">
-  <path fill="none" stroke="#ffffff" stroke-opacity="0.35" stroke-width="2">
+  <defs>
+    <!-- Gradiente principal -->
+    <linearGradient id="energy" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00eaff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#00eaff" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#00eaff" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Glow -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Línea base -->
+  <line x1="0" y1="20" x2="854" y2="20"
+        stroke="#ffffff"
+        stroke-opacity="0.15"
+        stroke-width="1"/>
+
+  <!-- Barrido de energía -->
+  <rect x="-200" y="18" width="200" height="4"
+        fill="url(#energy)"
+        filter="url(#glow)">
     <animate
-      attributeName="d"
-      dur="12s"
-      repeatCount="indefinite"
-      values="
-        M0 20 Q213 10 427 20 T854 20;
-        M0 20 Q213 30 427 20 T854 20;
-        M0 20 Q213 10 427 20 T854 20
-      "
-    />
-  </path>
+      attributeName="x"
+      from="-200"
+      to="854"
+      dur="3.5s"
+      repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Núcleo central -->
+  <circle cx="427" cy="20" r="4" fill="#00eaff" filter="url(#glow)">
+    <animate
+      attributeName="r"
+      values="3;6;3"
+      dur="2s"
+      repeatCount="indefinite"/>
+    <animate
+      attributeName="opacity"
+      values="0.6;1;0.6"
+      dur="2s"
+      repeatCount="indefinite"/>
+  </circle>
 </svg>
