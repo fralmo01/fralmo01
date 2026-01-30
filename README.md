@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
+  <img src="assets/banner.png" alt="Banner" width="100%">
+  <br>
+  <br>
 
-<!--
-**fralmo01/fralmo01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>¡Hola, soy Fralmo01! 👋</h1>
 
-Here are some ideas to get you started:
+  <p>
+    🚀 <b>Desarrollador Apasionado | Creador de Experiencias | Soñador</b> 🚀
+  </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br>
+
+  <p>
+    Bienvenido a mi espacio personal. Aquí es donde comparto mis proyectos, experimentos y mi viaje en el mundo del desarrollo.
+    Me encanta crear cosas nuevas y aprender tecnologías innovadoras.
+  </p>
+</div>
