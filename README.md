@@ -5,12 +5,12 @@
   <br />
   
   <h3>
-    <i>✨ Hola, soy <a href="#">Fralmo01</a> ✨</i>
+    <i>✨ Hola, soy <a href="#">Frans</a> ✨</i>
   </h3>
   
-  <code>
-    Desarrollador Apasionado · Creador de Experiencias · Soñador
-  </code>
+  <h4>
+    Desarrollador Apasionado &nbsp;·&nbsp; Creador de Experiencias &nbsp;·&nbsp; Soñador
+  </h4>
   
   <br /><br />
   
