@@ -2,7 +2,6 @@
 
 [![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:fransalmonacid36@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/fransalmonacid)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/fralmo01)
 [![Website](https://img.shields.io/badge/fransaq.net-000000?style=flat-square)](https://fransaq.net)
 
 </div>
