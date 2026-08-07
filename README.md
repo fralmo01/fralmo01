@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/banner.svg" alt="Frans Roly Almonacid Quispe — Backend Developer" width="100%" />
+
 [![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:fransalmonacid36@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/fransalmonacid)
 [![Website](https://img.shields.io/badge/fransaq.net-000000?style=flat-square)](https://fransaq.net)
