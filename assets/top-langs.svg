@@ -116,7 +116,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="136.34"
+          width="150.24"
           height="8"
           fill="#ff5a03"
         />
@@ -124,19 +124,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="136.34"
+          x="150.24"
           y="0"
-          width="30.47"
-          height="8"
-          fill="#A97BFF"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="166.81"
-          y="0"
-          width="28.88"
+          width="31.94"
           height="8"
           fill="#f1e05a"
         />
@@ -144,9 +134,19 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="195.69"
+          x="182.18"
           y="0"
-          width="22.24"
+          width="23.82"
+          height="8"
+          fill="#A97BFF"
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="206"
+          y="0"
+          width="17.39"
           height="8"
           fill="#f34b7d"
         />
@@ -154,9 +154,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="217.93"
+          x="223.39"
           y="0"
-          width="17.21"
+          width="13.45"
           height="8"
           fill="#4F5D95"
         />
@@ -164,11 +164,11 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="235.14000000000001"
+          x="236.83999999999997"
           y="0"
-          width="14.86"
+          width="13.15"
           height="8"
-          fill="#7355dd"
+          fill="#663399"
         />
       
       
@@ -177,42 +177,42 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#ff5a03" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Astro 54.54%
+        Astro 60.10%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#A97BFF" />
+      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Kotlin 12.19%
+        JavaScript 12.78%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
+      <circle cx="5" cy="6" r="5" fill="#A97BFF" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 11.55%
+        Kotlin 9.53%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#f34b7d" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C++ 8.90%
+        C++ 6.96%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#4F5D95" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        PHP 6.88%
+        PHP 5.38%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#7355dd" />
+      <circle cx="5" cy="6" r="5" fill="#663399" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C# 5.94%
+        CSS 5.26%
       </text>
     </g>
   </g></g>
